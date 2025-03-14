@@ -1,0 +1,7 @@
+mido
+python-rtmidi
+pycaw
+comtypes
+keyboard
+pystray
+pillow
