@@ -108,3 +108,7 @@ If you have trouble connecting to your X-Touch Mini:
 ## Notes
 
 The application automatically connects to the first available MIDI device, assuming it's the X-Touch Mini. If you have multiple MIDI devices connected, you may need to modify the source code to select the correct device.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
