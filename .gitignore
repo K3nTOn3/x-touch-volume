@@ -1,0 +1,7 @@
+# ifnore start.bat
+start.bat
+pythonw.exe.lnk
+
+# comps/_pycache_/
+comps/_pycache_/
+comps/__pycache__/*
